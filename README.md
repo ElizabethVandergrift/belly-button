@@ -2,6 +2,8 @@
 
 This project visualizes data from bacteria cultures using an interactive dashboard. The dashboard includes metadata for each sample and charts that display the distribution and frequency of bacteria cultures.
 
+https://elizabethvandergrift.github.io/belly-button/
+
 ## Table of Contents
 
 - [index.html](index.html): The main HTML file that sets up the dashboard layout.
