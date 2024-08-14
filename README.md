@@ -21,9 +21,10 @@ The JSON file includes:
 
 The dashboard consists of a dropdown menu to select different samples. Upon selection, the metadata panel and charts update to reflect the selected sample's data.
 
-![Uploading Screenshot 2024-08-14 155907.png…]()
+![Screenshot 2024-08-14 155907](https://github.com/user-attachments/assets/d01fbd42-feff-4416-8d2c-e3b4f1cf1e42)
 
-![Uploading Screenshot 2024-08-14 155925.png…]()
+![Screenshot 2024-08-14 155925](https://github.com/user-attachments/assets/3311b25b-9e71-483f-8975-d010021d583e)
+
 
 ## Features
 
